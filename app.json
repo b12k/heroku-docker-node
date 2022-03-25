@@ -1,0 +1,8 @@
+{
+    "stack": "container",
+    "env": {
+        "SCOPE": {
+            "required": true
+        }
+    }
+}
